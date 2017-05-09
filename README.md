@@ -1,7 +1,7 @@
 Scuttlebutt Recluse
 ===================
 
-This is a Python 3 based project.
+This is a Python 2 based project.
 
 The initial idea is to create a Twitter list that this app will digest.
 
